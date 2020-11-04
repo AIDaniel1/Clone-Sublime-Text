@@ -1,0 +1,229 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+    max-width: 100%;
+    
+}
+header{
+    background-color: rgb(111,111,111);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+header span{
+    color: white;
+    font-size: 18px;
+    padding-top: 12px;
+    font-family: Aharoni;
+    margin: 0 auto;
+    
+   
+}
+header nav ul{
+    display: inline-flex;
+    list-style: none;
+    padding: 10px 10px;
+    position: relative;
+}
+header nav ul li{
+    padding: 10px 10px;
+    margin-right: 30px;
+}
+header nav ul a{
+    color: white;
+    text-decoration:none;
+    transition: all 0.3s ease 0s;
+}
+header nav ul a:hover{
+color: orange;
+}
+#blue{
+    background-color: lightblue;
+    padding-top: 1rem;
+}
+#blue .text{
+    
+    color: #fff;
+    font-size: 18px;
+    width: 90%;
+    text-align: center;
+    background-color: lightgray;
+
+    border:1px solid none;
+    border-color: gray;
+   padding-top: 1px;
+
+}   
+#blue button{
+    background-color: gray;
+    padding: 10px;
+   border:1px solid none;
+   margin-left: 10rem;
+   margin-bottom: 4rem;
+}
+#blue .white{
+    color: white;
+    padding-left: 7px;
+    
+   
+}
+.body-code{
+    padding: 10px;
+   
+
+}
+.body-code h2{
+    background-color: lightgray;
+    border:1px solid white;
+    width: 60%
+}
+.body-code b{
+    font-weight: lighter;
+}
+.body-code code{
+    background-color: lightgray;
+    border:1px solid white;
+}
+.HQ h2{
+    text-align: center;
+    color: dimgray;
+    background-color: lightgray;
+    border: 1px solid none;
+    width: 50%;
+    
+}
+.HQ h3{
+    padding: 10px 10px;
+    color: dimgray;
+}
+.HQ p{
+    padding: 10px;
+}
+footer{
+    padding: 10px 10px;
+    background-color: lightgray;
+    width: 100%
+    margin-top:6px;
+}
+/*@media(max-width: 400px){
+ .body-code{display: flex;
+           flex-direction: row;
+           background-color: gold;
+           }
+}*/
+
+
+
+
+
+
+
+
+
+
+
+/*body{
+    
+    margin: 0;
+    width: 100%
+}
+#Header-bar nav{
+    background-color: rgb(111,111,111);
+    width:100%;
+    
+
+
+}
+#Header-bar header nav span{color: #fff;
+            font-size: 2rem;
+            margin: 10rem 10rem;}
+
+#Header-bar header nav ul{float: right; 
+                    margin-right: 25rem; 
+                    display:inline-flex;
+                    position:relative;
+                    bottom: 45px;
+                    left: 12rem;}
+
+#Header-bar header li{list-style: none;}
+
+#Header-bar header ul li a{color:green;
+                        text-decoration: none; 
+                         display:block;
+                         font-size: 1rem;
+                         padding-left: 1.32em;}
+#blue-gosht{
+    width: 100%
+}                         
+#blue-gosht #c1{
+   color: green; 
+   text-align: center;
+}
+#blue-gosht #c2{
+ color: green; 
+ text-align: center;  
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*{
+    margin: 0;
+    padding: 0;
+}
+#subox{
+    width: 100%;
+    height: inherit;
+    background-color: rgba(5, 5, 5, 0.5);
+
+}
+#subox h2{color:white;
+             padding-bottom: 16px;
+             padding-left: 16px;
+             padding-top: 10px;
+            font-family: Aharoni, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            
+        }
+     #subox nav{color:white;
+            padding-bottom: 13px;
+                padding-left: 13px;
+                }
+#sublue{background-color: rgba(7, 68, 68, 0.3);
+        width:100%;
+        height: inherit;
+        margin-top: 0px;}      
+#sublue #box{text-align: center;
+             color: white;
+             padding: 10px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+         background-color: rgba(0, 0, 0, 0.3);
+    margin-left: 30%;
+    margin-right: 15%;
+    font-size: small;
+    font-weight: lighter;
+   }  
+#sublue button{color: white;
+              padding: 10px 10px 10px 10px;
+            background-color: rgba(5, 5, 5, 0.5);
+            margin-left: 45%;
+            margin-top: 2%;
+           }  
+#sublue #sll{text-align: center;
+            color: white; 
+        margin-left: 45%;} 
+#sublue em{color: white;}      
+#sublue small{margin-left: 50%;}  
+#sublue a:link{color:white;}*/    

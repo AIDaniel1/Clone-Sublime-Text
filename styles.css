@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+   
+}
+body{
+    
+
+}
+#box1{
+    background-color: blue;
+    height: 500px;
+    width:50%;
+    
+}
+#box2{
+    background-color: crimson;
+    height: 500px;
+    width: 50%;
+}
+#box3{
+    background-color: darkmagenta;
+    height: 500px;
+    width: 50%;
+}

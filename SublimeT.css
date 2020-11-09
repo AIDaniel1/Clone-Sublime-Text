@@ -49,12 +49,14 @@ color: orange;
     width: 90%;
     text-align: center;
     background-color: lightgray;
-
+    
     border:1px solid none;
     border-color: gray;
    padding-top: 1px;
+   
 
-}   
+
+}  
 #blue button{
     background-color: gray;
     padding: 10px;

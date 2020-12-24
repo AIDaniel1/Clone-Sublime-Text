@@ -43,11 +43,11 @@ color: orange;
     padding-top: 1rem;
 }
 #blue .text{
-    
+    display:table;
     color: #fff;
     font-size: 18px;
-    width: 90%;
-    text-align: center;
+    /* width: 90%; */
+    margin-left: 500px;
     background-color: lightgray;
     
     border:1px solid none;
@@ -69,6 +69,10 @@ color: orange;
     padding-left: 7px;
     
    
+}
+.move{
+    display: flex;
+    align-content: center;
 }
 .body-code{
     padding: 10px;
@@ -108,8 +112,3 @@ footer{
     width: 100%
     
 }
-@media(max-width: 400px){
- .body-code{display: flex;
-           flex-direction: row;
-           background-color: gold;
-           }

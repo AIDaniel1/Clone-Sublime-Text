@@ -43,9 +43,11 @@ color: orange;
     padding-top: 1rem;
 }
 #blue .text{
+    font-family:san-sarif; 
+    font-weight:500;
     display:table;
     color: #fff;
-    font-size: 18px;
+    font-size: 25px;
     /* width: 90%; */
     margin-left: 500px;
     background-color: lightgray;
